@@ -1,0 +1,22 @@
+.Mapa
+{
+	background-image: url('slike/pozadina.png');
+}
+
+.score
+{
+	font-size: 60px;
+	position: fixed;
+	color: gold;
+	top: 0;
+	left: 0;
+}
+
+.high_score
+{
+	font-size: 60px;
+	position: fixed;
+	color: gold;
+	top: 0;
+	left: 600;
+}
